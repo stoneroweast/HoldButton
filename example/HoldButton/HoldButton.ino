@@ -1,4 +1,4 @@
-#include "HoldButton.h"
+#include <HoldButton.h>
 
 HoldButton ButtonUp(2);
 HoldButton ButtonDown(3,100);
