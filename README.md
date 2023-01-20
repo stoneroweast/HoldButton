@@ -1,2 +1,2 @@
 # HoldButton
-Tiny Arduino Library for Read PushButton.
+Tiny Arduino Library for Read PushButton..
